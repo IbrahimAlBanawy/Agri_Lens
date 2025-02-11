@@ -11,12 +11,13 @@ const Footer = () => {
             Agri Lens
           </h2>
           <p className="mt-2 max-w-xs text-sm text-gray-400">
-            Lorem ipsum dolor sit amet, adipiscing elit. In hac habitasse platea
-            dictumst. Duis porta, quam ut finibus ultrices.
+            Agri Lens is committed to revolutionizing modern agriculture with
+            smart farming solutions. Our goal is to help farmers optimize
+            yields, manage resources efficiently, and ensure sustainable farming
+            practices through cutting-edge technology.
           </p>
           <div className="flex space-x-4 mt-4">
             <FaFacebookF className="text-[#F4B860] cursor-pointer" />
-            <FaTwitter className="text-[#F4B860] cursor-pointer" />
             <FaYoutube className="text-[#F4B860] cursor-pointer" />
             <FaInstagram className="text-[#F4B860] cursor-pointer" />
           </div>

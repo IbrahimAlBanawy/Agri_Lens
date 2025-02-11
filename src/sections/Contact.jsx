@@ -12,8 +12,9 @@ const Contact = () => {
           GET IN TOUCH NOW
         </h2>
         <p className="text-gray-400 text-lg leading-relaxed">
-          Lorem ipsum dolor sit amet, adipiscing elit. In hac habitasse platea
-          dictumst.
+          We’re here to help! Whether you have questions, need more information,
+          or want to collaborate, feel free to reach out. Our team is ready to
+          assist you with all your agricultural needs.
         </p>
 
         <div className="space-y-6">

@@ -32,9 +32,8 @@ const Home = () => {
             </span>
             <br />
             <span className="font-['Century_Gothic']">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ac
-              egestas sapien.
-              <br /> Nam id tortor orci. Nullam at pulvinar nulla.
+            At Agri Lens, we blend technology with nature to optimize crop yields, reduce waste, and enhance sustainability.
+            <br /> Our innovative smart farming solutions help farmers monitor plant health, automate irrigation, and detect diseases early—empowering a greener tomorrow.
             </span>
           </p>
 

@@ -41,22 +41,24 @@ const About = () => {
             We’re Leaders in Agriculture
           </h3>
           <p className="text-gray-300 mt-2 text-sm sm:text-base">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
-            placerat mauris non purus aliquam ornare. Suspendisse vel rutrum
-            tellus. Suspendisse in diam eu justo ultricies viverra.
+            With cutting-edge technology and AI-driven solutions, we help
+            farmers optimize their yields, reduce resource waste, and improve
+            efficiency. Our smart farming solutions integrate real-time
+            monitoring, automated irrigation, and AI-powered disease detection
+            to revolutionize agriculture.
           </p>
           <ul className="mt-4 space-y-2 sm:space-y-3 text-sm sm:text-base">
             <li className="flex items-center gap-2">
               <CheckCircle className="text-[#F7C35F]" size={18} sm:size={20} />
-              Lorem ipsum dolor sit amet
+              Precision farming for better crop management
             </li>
             <li className="flex items-center gap-2">
               <CheckCircle className="text-[#F7C35F]" size={18} sm:size={20} />
-              Sed placerat mauris non purus aliquam
+              AI-powered disease detection and prevention
             </li>
             <li className="flex items-center gap-2">
               <CheckCircle className="text-[#F7C35F]" size={18} sm:size={20} />
-              Nullam pretium dignissim turpis, non porttitor
+              Sustainable and efficient resource utilization
             </li>
           </ul>
         </div>

@@ -9,7 +9,7 @@ const testimonials = [
   {
     name: "Mohamed Tharwat",
     role: "Customer",
-    text: "Lorem ipsum dolor sit amet consectetur. Tortor tempus cursus leo dictumst elementum. Sagittis elit turpis dignissim turpis tristique venenatis.",
+    text: "Agri Lens has completely transformed the way we manage our crops. With AI-powered disease detection and smart irrigation, we've seen a 30% increase in yield while using less water and fertilizers!",
     image: Customer,
   },
   {

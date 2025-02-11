@@ -29,14 +29,14 @@ const Services = () => {
           <ServiceItem
             icon={Icon1}
             title="Our Agriculture Growth"
-            text="Lorem ipsum dolor sit amet consectetur. Cursus purus at tempus arcu. Metus elit auctor."
+            text="Enhancing crop yields with smart farming and AI-driven precision techniques."
           />
           {/* Thin horizontal line */}
           <hr className="border-t border-gray-300 w-full opacity-50" />
           <ServiceItem
             icon={Icon2}
             title="Making Healthy Foods"
-            text="Lorem ipsum dolor sit amet consectetur. Cursus purus at tempus arcu. Metus elit auctor interdum scelerisque."
+            text="Ensuring sustainable, high-quality food production through optimized farming."
           />
         </div>
       </div>
